@@ -1,0 +1,55 @@
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in add patients method 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection object created 
+2019-01-14-main-DEBUG-com.cg.hms.dao.HmsDAOIpml:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset object created 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:generated id is: 100
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in finally block
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in add patients method 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection object created 
+2019-01-14-main-DEBUG-com.cg.hms.dao.HmsDAOIpml:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset object created 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:generated id is: 101
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in finally block
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in add patients method 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection object created 
+2019-01-14-main-DEBUG-com.cg.hms.dao.HmsDAOIpml:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset object created 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:generated id is: 102
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in finally block
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in add patients method 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection object created 
+2019-01-14-main-DEBUG-com.cg.hms.dao.HmsDAOIpml:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset object created 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:generated id is: 103
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in finally block
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in add patients method 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection object created 
+2019-01-14-main-DEBUG-com.cg.hms.dao.HmsDAOIpml:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset object created 
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:generated id is: 104
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:in finally block
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:statement closed
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDAOIpml:connection closed
