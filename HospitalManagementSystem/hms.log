@@ -1,0 +1,20 @@
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:In add patient method
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:Connection obj created
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:In add patient method
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:Connection obj created
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:result set obj created
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:resultset closed
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:In add patient method
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:Connection obj created
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:result set obj created
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:generated id is1002
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:connection closed
+2019-01-14-main-INFO -com.cg.hms.dao.HMSDaoImpl:resultset closed
