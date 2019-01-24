@@ -1,0 +1,47 @@
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered reretrieveTruckDetails method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Connection Established
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Prepared Statement Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Result Set Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1000, truckType=20 ton Trailer, origin=Mumbai, destination=Delhi, charges=30000.0, availablenos=3]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2000, truckType=20 ton Trailer, origin=Delhi, destination=Mumbai, charges=30000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1001, truckType=10 ton, origin=Mumbai, destination=Kolkota, charges=20000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2001, truckType=10 ton, origin=Kolkota, destination=Mumbai, charges=20000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1002, truckType=10 ton, origin=Mumbai, destination=Chennai, charges=18000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1003, truckType=Mini truck, origin=Mumbai, destination=Pune, charges=5000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1004, truckType=Mini truck, origin=Mumbai, destination=Ahmedabad, charges=7000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered reretrieveTruckDetails method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Connection Established
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Prepared Statement Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Result Set Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1000, truckType=20 ton Trailer, origin=Mumbai, destination=Delhi, charges=30000.0, availablenos=3]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2000, truckType=20 ton Trailer, origin=Delhi, destination=Mumbai, charges=30000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1001, truckType=10 ton, origin=Mumbai, destination=Kolkota, charges=20000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2001, truckType=10 ton, origin=Kolkota, destination=Mumbai, charges=20000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1002, truckType=10 ton, origin=Mumbai, destination=Chennai, charges=18000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1003, truckType=Mini truck, origin=Mumbai, destination=Pune, charges=5000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1004, truckType=Mini truck, origin=Mumbai, destination=Ahmedabad, charges=7000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered bookTrucks method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered reretrieveTruckDetails method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Connection Established
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Prepared Statement Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Result Set Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1000, truckType=20 ton Trailer, origin=Mumbai, destination=Delhi, charges=30000.0, availablenos=3]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2000, truckType=20 ton Trailer, origin=Delhi, destination=Mumbai, charges=30000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1001, truckType=10 ton, origin=Mumbai, destination=Kolkota, charges=20000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2001, truckType=10 ton, origin=Kolkota, destination=Mumbai, charges=20000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1002, truckType=10 ton, origin=Mumbai, destination=Chennai, charges=18000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1003, truckType=Mini truck, origin=Mumbai, destination=Pune, charges=5000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1004, truckType=Mini truck, origin=Mumbai, destination=Ahmedabad, charges=7000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered bookTrucks method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered reretrieveTruckDetails method
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Connection Established
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Prepared Statement Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Result Set Created
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1000, truckType=20 ton Trailer, origin=Mumbai, destination=Delhi, charges=30000.0, availablenos=3]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2000, truckType=20 ton Trailer, origin=Delhi, destination=Mumbai, charges=30000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1001, truckType=10 ton, origin=Mumbai, destination=Kolkota, charges=20000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=2001, truckType=10 ton, origin=Kolkota, destination=Mumbai, charges=20000.0, availablenos=2]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1002, truckType=10 ton, origin=Mumbai, destination=Chennai, charges=18000.0, availablenos=7]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1003, truckType=Mini truck, origin=Mumbai, destination=Pune, charges=5000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:All retrive data: TruckBean [truckID=1004, truckType=Mini truck, origin=Mumbai, destination=Ahmedabad, charges=7000.0, availablenos=10]
+2019-01-21-main-INFO -com.capgemini.truckbooking.dao.TruckDao:Entered bookTrucks method
